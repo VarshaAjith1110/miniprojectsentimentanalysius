@@ -170,8 +170,11 @@ else:
 ```
 ## Output:
 
-![output1](output1.png)
-![output2](output2.png)
+<img width="348" alt="image" src="https://github.com/VarshaAjith1110/miniprojectsentimentanalysius/assets/94222288/b560856e-4a45-4244-9cd8-b99459b24ff3">
+![image](https://github.com/VarshaAjith1110/miniprojectsentimentanalysius/assets/94222288/ca4cbf23-c02d-4395-bc69-4e947908ba90)
+
+![image](https://github.com/VarshaAjith1110/miniprojectsentimentanalysius/assets/94222288/0813fdc6-6805-4d25-ac0d-3149a96e9639)
+
 
 ## Result:
 
